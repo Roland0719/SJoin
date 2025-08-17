@@ -1,0 +1,10 @@
+name: SJoin
+version: '1.0'
+main: org.roland0719.SJoin.SJoin
+api-version: '1.18'
+authors: [ Roland0719 ]
+
+commands:
+  sjoin:
+    description: Main command for SJoin
+    usage: /<command>
